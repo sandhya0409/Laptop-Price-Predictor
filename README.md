@@ -1,4 +1,4 @@
-# Laptop-Price-Predictor
+# LaptopCost Navigator
 
 Overview
 This project aims to predict laptop prices using machine learning techniques. The model is developed using Python and leverages a dataset of over 1302 laptop entries.
